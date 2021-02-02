@@ -28,3 +28,6 @@ will execute tests in parallel 3 threads on local machine and using *cucumber-jv
 
 #### Reports
 Reports will be generated in `target/site` folder
+
+## cloned from
+https://github.com/iljapavlovs/selenium-testng-allure-maven
